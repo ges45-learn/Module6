@@ -12,3 +12,4 @@
 - https://www.npl.co.uk/research/semiconductor-metrology
 - https://www.sciencedirect.com/book/edited-volume/9780081020944/wide-bandgap-power-semiconductor-packaging
 - https://ieeexplore.ieee.org/abstract/document/11649861
+- https://www.imaps.org.uk/2026/08/18/rewire-early-career-researchers-open-call-for-proposals-for-power-semiconductor-innovation/
