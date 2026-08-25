@@ -11,3 +11,4 @@
 - https://lnkd.in/p/e8-KzYXR
 - https://www.npl.co.uk/research/semiconductor-metrology
 - https://www.sciencedirect.com/book/edited-volume/9780081020944/wide-bandgap-power-semiconductor-packaging
+- https://ieeexplore.ieee.org/abstract/document/11649861
