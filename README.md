@@ -14,4 +14,7 @@
 - https://ieeexplore.ieee.org/abstract/document/11649861
 - https://www.imaps.org.uk/2026/08/18/rewire-early-career-researchers-open-call-for-proposals-for-power-semiconductor-innovation/
 - https://www.swansea.ac.uk/staff/saptarsi.ghosh/
-- 
+- https://doi.org/10.1088/1361-6528/ae0941
+- https://doi.org/10.1038/s41928-024-01307-9
+- https://doi.org/10.1063/5.0225275
+- https://doi.org/10.1016/j.jallcom.2023.172454
