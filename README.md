@@ -18,3 +18,6 @@
 - https://doi.org/10.1038/s41928-024-01307-9
 - https://doi.org/10.1063/5.0225275
 - https://doi.org/10.1016/j.jallcom.2023.172454
+- https://eps.ieee.org/technology/global-chips-act-resources/
+- https://semiconductors.ieee.org/
+- https://digital-strategy.ec.europa.eu/en/policies/chips-act-2
