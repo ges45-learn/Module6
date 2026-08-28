@@ -21,3 +21,4 @@
 - https://eps.ieee.org/technology/global-chips-act-resources/
 - https://semiconductors.ieee.org/
 - https://digital-strategy.ec.europa.eu/en/policies/chips-act-2
+- https://www.klover.ai/tsmc-uses-ai-agents-10-ways-to-use-ai-in-depth-analysis-2025/
